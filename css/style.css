@@ -1,0 +1,28 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-image: url("../images/jaguar-xe.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+}
+div {
+	background-color: rgba(18, 18, 18, 0.7);
+	max-width: 600px;
+	margin: 80px 80px;
+	padding: 5px 30px;
+	border-radius: 10px;
+	text-align: justify;
+}
+
+
+button {
+	background-color: #DB3030;
+	color: white;
+	padding: 8px 30px;
+	margin: 0 0 20px 2px;
+	cursor: pointer;
+	border: none;
+	font-weight: bold;
+}
